@@ -35,16 +35,16 @@ msgid "Logout"
 msgstr "Salir"
 
 msgid "Sign Up / Login"
-msgstr "Apuntarse / Login"
+msgstr "Registrarse / Iniciar sesión"
 
 msgid "as Google user"
-msgstr "como usario Google"
+msgstr "como usario de Google"
 
 msgid "as Facebook user"
-msgstr "como usuario Facebook"
+msgstr "como usuario de Facebook"
 
 msgid "as Github user"
-msgstr "como usuario Github"
+msgstr "como usuario de Github"
 
 msgid "version"
 msgstr "versión"
